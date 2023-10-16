@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Wizzard19
+- 👋 Hi, I’m Alejandro Spitale, also known as Wizzard
 - 👀 I’m interested in learn React to be a freelance front-end Developer
 - 🌱 I’m currently learning Reactjs
+- im working for an international company, Claro AMX.
 
 
 <!---
